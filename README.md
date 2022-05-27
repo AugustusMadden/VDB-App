@@ -1,4 +1,28 @@
 # VDB-App
+  #### Table of Contents
+  
+  1. [Description](#description)
+  2. [Installation Instructions](#installation-instructions)
+  3. [Credits](#credits) 
+  4. [License](#license)
+  
+  ## Description
+  * Welcome to IVDB! With this app, you can search through a database of videogames via the RAWG API and add your favorite games to your own gamelist. This website is full stack MERN application. Try it out!
+  
+  
+  ## Installation Instructions
+  * In order to install and use this program locally, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Afterwards, type "npm start" into the prompt to begin the program. 
+  
+  This program has also been deployed through Heroku, which you can access here: [https://tranquil-sierra-28921.herokuapp.com/](https://tranquil-sierra-28921.herokuapp.com/)
+    
+  ## Credits
+  * This project was created by: 
+  * Jared Keebler (github: jakekeebler | email: jakekeebler@gmail.com)
+  * Augustus Madden (github: AugustusMadden | email: gusmadden@gmail.com)
+  * Kaleb S. (github: kaleb1027)
+  * Owen Foreman (github: owenforeman1)
+
+  ## License
 
                                  Apache License
                            Version 2.0, January 2004
